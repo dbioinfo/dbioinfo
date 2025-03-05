@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Dylan
+💻 Bioinformatics | System Administration | Full-Stack Development
 
-<!--
-**dbioinfo/dbioinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **What I Do**
+- Design and manage bioinformatics pipelines & high-performance computing clusters.
+- Develop Shiny apps & web-based dashboards for biological data analysis.
+- Build scalable infrastructure using Proxmox, SLURM, and cloud technologies.
 
-Here are some ideas to get you started:
+🔬 **Projects**
+- **shinyRER** – Relative Evolutionary Rate analysis and dashboard (🔗 [GitHub Repo](https://github.com/dbioinfo/shinyrer))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Connect with Me**
+[LinkedIn](#) | [Email](dylan.barth@unlv.edu) | [Twitter](#)
+
