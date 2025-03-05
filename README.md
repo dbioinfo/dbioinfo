@@ -8,6 +8,7 @@
 
 🔬 **Projects**
 - **shinyRER** – Relative Evolutionary Rate analysis and dashboard (🔗 [GitHub Repo](https://github.com/dbioinfo/shinyrer))
+- **shinyEVE** - Evolutionary Expression analysis and dashboard (🔗 [GitHub Repo](https://github.com/dbioinfo/shinyEVE))
 
 📫 **Connect with Me**
 [LinkedIn](#) | [Email](dylan.barth@unlv.edu) 
