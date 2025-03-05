@@ -10,5 +10,5 @@
 - **shinyRER** – Relative Evolutionary Rate analysis and dashboard (🔗 [GitHub Repo](https://github.com/dbioinfo/shinyrer))
 
 📫 **Connect with Me**
-[LinkedIn](#) | [Email](dylan.barth@unlv.edu) | [Twitter](#)
+[LinkedIn](#) | [Email](dylan.barth@unlv.edu) 
 
