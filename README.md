@@ -2,9 +2,9 @@
 💻 Bioinformatics PhD | System Administration | Full-Stack Development
 
 🚀 **What I Do**
-- Design and manage bioinformatics pipelines & high-performance computing clusters.
-- Develop Shiny apps & web-based dashboards for biological data analysis.
-- Build scalable infrastructure using Proxmox, SLURM, and cloud technologies.
+- Design and manage bioinformatics pipelines on high-performance computing clusters.
+- Develop portable shiny dashboards for genomic data analysis.
+- Communicate key statistical concepts through interactive graphics. 
 
 🔬 **Projects**
 - **shinyRER** – Relative Evolutionary Rate analysis and dashboard (🔗 [GitHub Repo](https://github.com/dbioinfo/shinyrer))
