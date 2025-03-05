@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Dylan
-💻 Bioinformatics PhD | System Administration | Full-Stack Development
+💻 Bioinformatics PhD | Full-Stack Development | System Administration
 
 🚀 **What I Do**
 - Design and manage bioinformatics pipelines on high-performance computing clusters.
