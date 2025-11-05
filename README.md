@@ -1,5 +1,5 @@
 # Hi, I'm dylan
-:desktop_computer:  Bioinformatics PhD | Full-Stack Development | System Administration
+:dna: :desktop_computer:  Bioinformatics PhD | Full-Stack Development | System Administration :desktop_computer: :dna:  
 
 **What I Do**
 - Design and manage bioinformatics pipelines on high-performance computing clusters.
