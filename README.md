@@ -1,12 +1,8 @@
 # Hi, I'm dylan
 
----
-
 :dna: :desktop_computer:  Bioinformatics PhD | Full-Stack Development | System Administration :desktop_computer: :dna:  
 
 ### **What I Do**
-
----
 
 - Design and manage bioinformatics pipelines on high-performance computing clusters.
 - Develop portable shiny dashboards for genomic data digestion.
