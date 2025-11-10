@@ -8,7 +8,7 @@
 - Develop portable shiny dashboards for genomic data digestion.
 - Consult on experimental design to optimize effect size and select suitable statistical analysis. 
 
-I am a freelance bioinformatics / data analysis consultant. If you or someone you know has a "Big Job^TM", contact me at [dbinfo](dylan@dbinfo.dev) and I will happily design a custom solution for you. Whether you are a PI with no time for untangling software dependencies and HPC optimizations, or you're a big-picture business owner who needs their data swamp streamlined and AWS cluster maintained, dbinfo LLC is the consultant for you. 
+I am a freelance bioinformatics / data analysis consultant. If you or someone you know has a "Big Job^TM^", contact me at [dbinfo](dylan@dbinfo.dev) and I will happily design a custom solution for you. Whether you are a PI with no time for untangling software dependencies and HPC optimizations, or you're a big-picture business owner who needs their data swamp streamlined and AWS cluster maintained, dbinfo LLC is the consultant for you. 
 
 
 ## **Example Projects**
