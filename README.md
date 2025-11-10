@@ -7,9 +7,9 @@
 - Consult on experimental design to optimize effect size and select suitable statistical analysis. 
 
 **Example Projects**
-- **shinyRER** – Relative Evolutionary Rate analysis and dashboard (🔗 [GitHub Repo](https://github.com/dbioinfo/shinyrer))
-- **shinyEVE** - Evolutionary Expression analysis and dashboard (🔗 [GitHub Repo](https://github.com/dbioinfo/shinyEVE))
+- **shinyRER** – Relative Evolutionary Rate analysis and dashboard ([Link](https://github.com/dbioinfo/shinyrer))
+- **shinyEVE** - Evolutionary Expression analysis and dashboard ([Link](https://github.com/dbioinfo/shinyEVE))
 
 **Connect with Me**
-[Email](dylan@dbinfo.dev) 
+[dylan@dbinfo.dev](dylan@dbinfo.dev) 
 
