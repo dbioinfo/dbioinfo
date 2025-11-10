@@ -8,6 +8,7 @@
 
 **Example Projects**
 - **shinyRER** – Relative Evolutionary Rate analysis and dashboard ([Link](https://github.com/dbioinfo/shinyrer))
+-- ![rerfig](https://github.com/dbioinfo/shinyrer/blob/master/figs/promopic.png)
 - **shinyEVE** - Evolutionary Expression analysis and dashboard ([Link](https://github.com/dbioinfo/shinyEVE))
 
 **Connect with Me**
