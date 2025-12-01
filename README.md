@@ -4,7 +4,7 @@
 
 ## **What I Do**
 
-- Design reproducable bioinformatics pipelines on high-performance computing clusters.
+- Design reproducible bioinformatics pipelines on high-performance computing clusters.
 - Develop and host portable shiny dashboards for genomic data digestion.
 - Consult on experimental design to optimize effect size and select suitable statistical analyses. 
 
