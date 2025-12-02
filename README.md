@@ -20,6 +20,10 @@ Many of my collaborations have been published in high ranking journals with more
 ## **Example Projects**
 Some of my unpublished projects are also hosted here on github
 
+#### **cnv_calculator** [Link](https://github.com/dbioinfo/cnv_calculator)
+
+![cnvfig](https://github.com/dbioinfo/cnv_calculator/figs/Cooccurrence.png)
+
 #### **shinyRER** – Relative Evolutionary Rate analysis and dashboard ([Link](https://github.com/dbioinfo/shinyrer))
 
  ![rerfig](https://github.com/dbioinfo/shinyrer/blob/master/figs/promopic.png)
