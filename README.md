@@ -20,7 +20,7 @@ Many of my collaborations have been published in high ranking journals with more
 ## **Example Projects**
 Some of my unpublished projects are also hosted here on github
 
-#### **cnv_calculator** [Link](https://github.com/dbioinfo/cnv_calculator)
+#### **cnv_calculator** - Genetic alteration incidence calculator for oncological pharmacology. ([Link](https://github.com/dbioinfo/cnv_calculator))
 
  ![cnvfig](https://github.com/dbioinfo/cnv_calculator/blob/master/figs/Cooccurrence.png)
 
