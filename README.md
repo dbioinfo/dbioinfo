@@ -1,6 +1,6 @@
 # Hi, I'm dylan
 
-:desktop_computer: :dna:  Bioinformatics PhD | Full-Stack Development | System Administration | Entrepreneur :dna:  :desktop_computer: 
+:desktop_computer: :dna:  Bioinformatics PhD | Full-Stack Development | System Administration | dbinfo LLC  :dna:  :desktop_computer: 
 
 ## **What I Do**
 
