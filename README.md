@@ -10,7 +10,7 @@
 
 I am a freelance bioinformatics / data analysis consultant. I provide a service that includes the full-stack of a pipeline; from quality controlling raw-data to reproducible containerized analysis to scaling Big Data<sup>TM</sup> on an HPC to statistical interpretation and interactive visualization, I steward your data every step of the way to ensure consistency and interpretability of the final output. 
 
-Contact me at [dbinfo LLC](dylan@dbinfo.dev) and I will happily design a custom solution for you. 
+Contact me at dylan@dbinfo.dev and I will happily design a custom solution for you. 
 
 ## **Citations**
 Many of my collaborations have been published in high ranking journals with more on the way
