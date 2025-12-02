@@ -22,7 +22,7 @@ Some of my unpublished projects are also hosted here on github
 
 #### **cnv_calculator** [Link](https://github.com/dbioinfo/cnv_calculator)
 
-![cnvfig]([https://github.com/dbioinfo/cnv_calculator/figs](https://github.com/dbioinfo/cnv_calculator/tree/master/figs/Cooccurrence.png)
+![cnvfig](https://github.com/dbioinfo/cnv_calculator/tree/master/figs/Cooccurrence.png)
 
 #### **shinyRER** – Relative Evolutionary Rate analysis and dashboard ([Link](https://github.com/dbioinfo/shinyrer))
 
