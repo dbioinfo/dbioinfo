@@ -17,7 +17,7 @@ Many of my collaborations have been published in high ranking journals with more
  - [Transcriptomic dynamics of the elite hibernator and cold-stressed human cells: potential insights into mammalian hibernation](https://journals.physiology.org/doi/abs/10.1152/physiol.2025.40.S1.1789)
  - [Disruption of the OsWRKY71 transcription factor gene results in early rice seed germination under normal and cold stress conditions](https://link.springer.com/article/10.1186/s12870-024-05808-9)
  - [Genome wide clustering on integrated chromatin states and Micro-C contacts reveals chromatin interaction signatures](https://academic.oup.com/nargab/article/6/4/lqae136/7808502?login=false)
- - [Machine learning of enhancer-promoter specificity based on enhancer perturbation studies reveals a distinct class of enhancers **First Author**](https://academic.oup.com/bioinformatics/article/40/6/btae367/7693071?login=false)
+ - [(**First Author**) Machine learning of enhancer-promoter specificity based on enhancer perturbation studies reveals a distinct class of enhancers](https://academic.oup.com/bioinformatics/article/40/6/btae367/7693071?login=false)
 
 ## **Example Projects**
 Some of my unpublished projects are also hosted here on github
