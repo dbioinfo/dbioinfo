@@ -17,7 +17,7 @@ I am a freelance bioinformatics / data analysis consultant. I provide a service 
   - optimizing resource consumption (SLURM, multithreading, complexity analysis)
   - statistical interpretation and interactive visualization (ggplot2, shiny)
  
-This allows me to have insight into a breadth of data-science challenges that I translate into an accelerated research capacity for my collaborators. So whether your bottleneck is scaling Big Data onto an HPC, or digesting the output of a niche statistical framework, I will steward your data every step of the way to ensure consistency and interpretability of the final output. 
+This allows me to have insight into a breadth of data-science challenges that I translate into an accelerated research throughput for my collaborators. So whether your bottleneck is scaling Big Data onto an HPC, or digesting the output of a niche statistical framework, I will steward your data every step of the way to ensure consistency and interpretability of the final output. 
 
 Contact me at dylan@dbinfo.dev and I will happily design a custom solution for you. 
 
