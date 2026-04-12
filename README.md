@@ -8,7 +8,14 @@
 - Develop and host portable shiny dashboards for genomic data digestion.
 - Consult on experimental design to optimize effect size and select suitable statistical analyses. 
 
-I am a freelance bioinformatics / data analysis consultant. I provide a service that includes the full-stack of a pipeline; from quality controlling raw-data to reproducible containerized analysis to scaling Big Data<sup>TM</sup> on an HPC to statistical interpretation and interactive visualization, I steward your data every step of the way to ensure consistency and interpretability of the final output. 
+I am a freelance bioinformatics / data analysis consultant. I provide a service that includes the full-stack of a pipeline; from low-level tasks like database normalization to high-level tasks like interactive visualizations. This includes expertise in 
+ -- data storage, cloud infrastructure (proxmox, synology, PSQL)
+ -- reproducible containerized analysis (VMs, LXCs, docker, singularity)
+ -- quality controlling raw sequence data (fastqc, decontam, trimmomatic)
+ -- optimizing resource consumption (SLURM, multithreading, complexity analysis)
+ -- statistical interpretation and interactive visualization (ggplot2, shiny)
+ 
+This allows me to have insight into a breadth of data-science challenges that I translate into an accelerated research capacity for my collaborators. So whether your bottleneck is scaling Big Data onto an HPC, or digesting the output of a niche statistical framework, I will steward your data every step of the way to ensure consistency and interpretability of the final output. 
 
 Contact me at dylan@dbinfo.dev and I will happily design a custom solution for you. 
 
