@@ -15,6 +15,7 @@ I am a freelance bioinformatics / data analysis consultant. I provide a service 
   - reproducible containerized analysis `(VMs, LXCs, docker, singularity)`
   - quality controlling raw sequence data `(fastqc, decontam, trimmomatic)`
   - optimizing resource consumption `(SLURM, multithreading, complexity analysis)`
+  - a plethora of statistical frameworks `(data wrangling, RNA-Seq, phylogenetic analyses, machine learning)`
   - statistical interpretation and interactive visualization `(ggplot2, shiny)`
  
 This allows me to have insight into a breadth of data-science challenges that I translate into an accelerated research throughput for my collaborators. So whether your bottleneck is scaling Big Data onto an HPC, or digesting the output of a niche statistical framework, I will steward your data every step of the way to ensure consistency and interpretability of the final output. 
