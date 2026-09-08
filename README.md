@@ -20,7 +20,7 @@ I am a freelance bioinformatics / data analysis consultant. I provide a service 
  
 This allows me to have insight into a breadth of data-science challenges that I translate into an accelerated research throughput for my collaborators. So whether your bottleneck is scaling Big Data<sup>TM</sup> onto an HPC, or digesting the output of a niche statistical framework, I will steward your data every step of the way to ensure consistency and interpretability of the final output. 
 
-Contact me at dylan@dbinfo.dev and I will happily design a custom solution for you. 
+Contact me for consultation at dylan@dbinfo.dev
 
 ## **Citations**
 Many of my collaborations have been published in high ranking journals with more on the way
@@ -45,6 +45,4 @@ Some of my unpublished projects are also hosted here on github
 
 ![shinyEvefig](https://github.com/dbioinfo/shinyEVE/blob/main/images/test_image.png)
 
-**Connect with Me**
-[dylan@dbinfo.dev](dylan@dbinfo.dev) 
 
