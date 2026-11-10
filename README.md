@@ -38,7 +38,7 @@ Some of my unpublished projects are also hosted here on github
 
 #### **NRCS Report** – Ecological Report on the Desert Microbiome ([Link](https://github.com/dbioinfo/nrcs))
 
- ![nrcsrep](https://github.com/dbioinfo/nrcs/tree/main/figs/githubpanel.nrcsreport.png)
+ ![nrcsrep](https://github.com/dbioinfo/nrcs/blob/main/figs/githubpanel.nrcsreport.png)
 
 
 #### **shinyEVE** - Evolutionary Expression analysis and dashboard ([Link](https://github.com/dbioinfo/shinyEVE))
