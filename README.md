@@ -8,7 +8,7 @@
 - Develop and host portable shiny dashboards for genomic data digestion.
 - Consult on experimental design to optimize effect size and select suitable statistical analyses. 
 
-I am a freelance bioinformatics / data analysis consultant. I provide a service that includes the full-stack of a pipeline; from low-level tasks like database normalization to high-level tasks like interactive visualizations. 
+I am a freelance bioinformatics / data analysis consultant. I provide a service that includes the full-stack of a pipeline; from low-level tasks like administering a hypervisor to high-level tasks like interactive visualizations of statistical analyses. 
 
 - This includes expertise in 
   - data storage, cloud infrastructure `(proxmox, synology, PSQL)`
